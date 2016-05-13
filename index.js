@@ -3,7 +3,7 @@ var app = express();
 
 app.get('/', function (req, res) {
     //res.send('Hello Chai Aijun from Cisco Shipped!');
-    res.send('Coding from Eclipse!!!');
+    res.send('Coding from Eclipse!!! - 20160513');
 });
 
 var server = app.listen(3000, function () {
